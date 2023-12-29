@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\bin\Debug\net6.0\JCD1.2.7.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\bin\Debug\net6.0\JCD1.2.7.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\bin\Debug\net6.0\JCD1.2.7.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\bin\Debug\net6.0\JCD1.2.7.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\bin\Debug\net6.0\JCD1.2.7.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\obj\Debug\net6.0\JCD1.2.7.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\obj\Debug\net6.0\JCD1.2.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\obj\Debug\net6.0\JCD1.2.7.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\obj\Debug\net6.0\JCD1.2.7.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\obj\Debug\net6.0\JCD1.2.7.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\obj\Debug\net6.0\JCD1.2.7.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\obj\Debug\net6.0\refint\JCD1.2.7.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\obj\Debug\net6.0\JCD1.2.7.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\obj\Debug\net6.0\JCD1.2.7.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.2 Operations\JCD1.2.7\obj\Debug\net6.0\ref\JCD1.2.7.dll
